@@ -1,0 +1,8 @@
+Bp35c0_broute	KEYWORD1
+#
+setDebugSerial	KEYWORD2
+available	KEYWORD2
+open	KEYWORD2
+waitForRecieve	KEYWORD2
+close	KEYWORD2
+isOpen	KEYWORD2
